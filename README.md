@@ -359,6 +359,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 ### Classical Problems
 
 - Fibonacci Series
+- Kadane's Algorithm
 - Longest Common Substring
 - Longest Increasing Subsequence
 - Longest Palindromic Substring
@@ -383,6 +384,6 @@ Interview prep: When you are trying to get an engineering job, companies will te
 
 - https://stackoverflow.com/
 
-### Thank you for Contributing :pray: :dizzy:
+### Thank you all for Contributing :pray: :dizzy:
 
 ![105](https://contributors-img.web.app/image?repo=kothariji/competitive-programming)
